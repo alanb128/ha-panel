@@ -9,3 +9,5 @@ This repository contains all of the files for the working unit (or will in time.
 The STL files for the five panels are in the STL folder. The sixth panel is the Pi 7" touch screen assembly. See the layout image below:
 
 <img src="images/layout_small.jpg">
+
+The frame is called a "[Floater Frame](https://framing4yourself.com/product/matte-black-floater-frame-20101-m/)" and for this project is 9.25 inches x 15.75 inches.

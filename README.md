@@ -21,7 +21,8 @@ If you want the frame to mount flush to the wall, don't forget to drill extra sp
 
 For everything except the display:
 
-| Quantity | Part Description | Vendor/link | Notes|
+| Quantity | Part Description | Vendor/link | Notes |
+| -------- | ---------------- | ----------- | ----- |
 | 1        | M3 Nylon Stand Off Set | [Amazon](https://www.amazon.com/dp/B073GLW6NL) | |
 | 1        | 3.3V Buck Regulator | [SparkFun](https://www.sparkfun.com/products/18356) | | 
 | 1        | Tactile Push Button Caps, Black | [Amazon](https://www.amazon.com/dp/B07PK3W4XL) | For top display |
@@ -36,5 +37,7 @@ For everything except the display:
 | 3        | Adafruit MCP23017 I2C GPIO Expander Breakout | [Adafruit](https://www.adafruit.com/product/5346) | | 
 | 3        | Adafruit 0.56" 4-Digit 7-Segment Display with I2C Backpack - Red | [Adafruit](https://www.adafruit.com/product/878) | |
 | 1        | Key Switch 2PCS 16MM with Key Latching SPDT (2 Position 1NO1NC Round Yellow) | [Amazon](https://www.amazon.com/gp/product/B09FXC26WL) | For safe mode switching | 
+| 1        | Emergency Stop Mushroom Push Button Switch | [DFRobot](https://www.dfrobot.com/product-521.html) | For valve shutoff |
+
 
 

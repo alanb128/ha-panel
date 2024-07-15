@@ -41,7 +41,7 @@ For everything except the display:
 | 1        | Colorful 12mm Square Tactile Button Switch Assortment | [Adafruit](https://www.adafruit.com/product/1010) | |
 | 1        | CHANZON 100 pcs 3mm Red & Green Diffused LED Diode Lights Common Cathode | [Amazon](https://www.amazon.com/gp/product/B01CFZMSNO) | |
 | 3        | Radio Shack SPST Rocker Switch with LED #275-013 | Radio Shack | Bottom row - Discontinued |
-| 2        | Raspberry Pi 3B+ with SD card | Various | Can probably be combines into one unit |
+| 2        | Raspberry Pi 3B+ with SD card | Various | Can probably be combined into one unit |
 | 2        | Raspberry Pi POE HAT | [Raspberry Pi](https://www.raspberrypi.com/products/poe-hat/) | PoE+ HAT will not fit ribbon cable |
 | 4        | GPIO Stacking Header | [Adafruit](https://www.adafruit.com/product/2223) | To allow ribbon cable and POE HAT - see notes |
 | 1        | Diffused Red Indicator LED - 15mm Square | [Adafruit](https://www.adafruit.com/product/4041) | For alarm LED at top left |

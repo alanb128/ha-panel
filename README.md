@@ -2,7 +2,9 @@
 <img src="images/panel1.jpg">
 A wall mounted control panel for Home Assistant, as seen in this video: https://youtu.be/Oz87wOJSQm8. 
 
-This repository contains all of the files for the working unit (or will in time - I'm continually adding to this repo.) However, this is not a tutorial or kit - this is mainly a template and provided as inspiration for others wanting to make a similar panel. Feel free to use or modify these files, which are provided as-is and without support. 
+This repository contains all of the files for the working unit (or will in time - I'm continually adding to this repo.) However, this is not a tutorial or kit - this is mainly a template and provided as inspiration for others wanting to make a similar panel. 
+
+Feel free to use or modify these files, which are provided as-is and without support. The software is very customized to my use case, but will hopefully be a starting point for your project!
 
 ## STL Files
 

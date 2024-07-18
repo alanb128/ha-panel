@@ -4,10 +4,10 @@ A wall mounted control panel for Home Assistant, as seen in this video: https://
 
 This repository contains all of the STL files to print the panel, a detailed parts list, theory of operation, code samples and more... however, you won't find the entire code here for the following reasons:
  - My setup is highly customized and the code probably won't make sense for your installation
- - I'm not able to answer questions or provide support the huge code base
- - It's an advanced project but for those who want/can tackle it, the information in this repo should suffice
+ - I'm not able to answer questions or provide support for the huge code base
+ - It's an advanced project but for those who want/can tackle it, the information in this repo should suffice to get started
 
-Feel free to use or modify these files, which will hopefully be a useful starting point for your project!
+Feel free to use or modify these files, which will hopefully be a helpful starting point for your project!
 
 ## STL Files
 
@@ -52,6 +52,7 @@ For everything except the display:
 | 1        | Diffused Red Indicator LED - 15mm Square | [Adafruit](https://www.adafruit.com/product/4041) | For alarm LED at top left |
 | 1        | 5V Buzzer | [Adafruit](https://www.adafruit.com/product/1536) | |
 | 1        | Pi Foundation Display - 7" Touchscreen | [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-touch-display/) | | 
+| 1        | Lystaii 9pcs Lighting Gel Filter | [Amazon](https://www.amazon.com/dp/B0CXXQSDXH) | Cut to fit infront of 7 seg displays |
 
 Additional items:
 - wire, various sizes and gauges

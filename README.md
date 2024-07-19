@@ -31,6 +31,7 @@ For everything except the display:
 | 1        | Gel filter for 7 segment LEDs | [Amazon](https://www.amazon.com/dp/B0CXXQSDXH) | |
 | 30       | 220 ohm 5% resistors | Various | |
 | 10       | 1k ohm 5% resistors | Various | | 
+| 1        | Bi-Color (Red/Green) 24-Bar Bargraph w/I2C Backpack | [Adafruit](https://www.adafruit.com/product/1721) | | 
 | 3        | 3mm Plastic Bevel LED Holder - Pack of 5 | [Adafruit](https://www.adafruit.com/product/2179) | | 
 | 1        | Adafruit Perma-Proto 40-Pin Raspberry Pi Half-Size PCB Kit | [Adafruit](https://www.adafruit.com/product/4353)
 | 3        | Adafruit MCP23017 I2C GPIO Expander Breakout | [Adafruit](https://www.adafruit.com/product/5346) | | 

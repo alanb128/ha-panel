@@ -47,7 +47,6 @@ For everything except the display:
 | 1        | Diffused Red Indicator LED - 15mm Square | [Adafruit](https://www.adafruit.com/product/4041) | For alarm LED at top left |
 | 1        | 5V Buzzer | [Adafruit](https://www.adafruit.com/product/1536) | |
 | 1        | Pi Foundation Display - 7" Touchscreen | [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-touch-display/) | | 
-| 1        | Lystaii 9pcs Lighting Gel Filter | [Amazon](https://www.amazon.com/dp/B0CXXQSDXH) | Cut to fit in front of 7 seg displays |
 
 Additional items:
 - wire, various sizes and gauges

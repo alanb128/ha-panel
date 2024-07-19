@@ -62,7 +62,16 @@ Additional items:
 
 ## Software Notes
 
+All of the software runs in containers, which can be accomplished using regular Docker or my favorite platform for embedded devices - [balenaCloud](https://www.balena.io/). (Note that everything runs locally on the device with balena - the "cloud" part is an optional dashboard for updating, rebooting, and troubleshooting the Pi.)
+
 Commands are sent to Home Assistant (when buttons are pressed) via the Home Assistant REST API: https://developers.home-assistant.io/docs/api/rest/
 All the code is written in Python, and the [Requests](https://requests.readthedocs.io/en/latest/) library is used to call the API.
 
 The LEDs are updated based on real time updates from Home Assistant using Python and the web socket API: https://developers.home-assistant.io/docs/api/websocket
+
+## Touch display
+
+The touch display is running custom dashboards made for [HADashboard](https://appdaemon.readthedocs.io/en/latest/DASHBOARD_INSTALL.html) which is part of a Home Assistant plugin called AppDaemon.
+
+It's displayed on a Chromium browser in a container via a project called the [browser block](https://github.com/balena-io-experimental/browser).
+

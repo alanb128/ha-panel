@@ -2,14 +2,7 @@
 <img src="images/panel1.jpg">
 A wall mounted control panel for Home Assistant, as seen in this video: https://youtu.be/Oz87wOJSQm8. 
 
-This repository contains all of the STL files to print the panel, a detailed parts list, theory of operation, code samples and more... however, you won't find the entire code here for the following reasons:
- - My setup is highly customized and the code probably won't make sense for your installation
- - I'm not able to provide support for the huge code base
- - Getting all the dependencies to install is tricky
- - It's an advanced project but for those who want/can tackle it, the information in this repo should suffice to get started
- 
-
-Feel free to use or modify these files, which will hopefully be a helpful starting point for your project!
+This repository contains the STL files to print the panel pieces, a detailed parts list, and helpful information for anyone looking to build a similar panel... More to follow! (I think my actual code would generate more questions than answers, which I would not have time to address, so for now, the code is not here.)
 
 ## STL Files
 
@@ -68,3 +61,9 @@ Additional items:
 - All of the LEDs and switches are connected directly to various Pi GPIO pins. (I'm using lgpio/rpi-lgpio for GPIO access)
 - Everything else is connected via I2C Qwiic connectors
 
+## Software Notes
+
+Commands are sent to Home Assistant (when buttons are pressed) via the Home Assistant REST API: https://developers.home-assistant.io/docs/api/rest/
+All the code is written in Python, and the [Requests](https://requests.readthedocs.io/en/latest/) library is used to call the API.
+
+The LEDs are updated based on real time updates from Home Assistant using Python and the web socket API: https://developers.home-assistant.io/docs/api/websocket
